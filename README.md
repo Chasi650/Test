@@ -20,7 +20,7 @@ Como framework orientado a componentes, Angular fomenta la creación de componen
 
 Aunque Flask es conocido por su simplicidad, es altamente extensible y se puede utilizar para construir aplicaciones web más complejas si es necesario. Es un framework ideal para proyectos más pequeños y rápidos, así como para crear prototipos de aplicaciones web de manera eficiente.
     </p>
-    <h3>Flask como backend2</h3>
+    <h3>Flask como backend</h3>
     <p>
     Flask como Backend:
 
