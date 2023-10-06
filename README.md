@@ -14,7 +14,7 @@ Angular también es conocido por su capacidad de integración con APIs y servici
 
 Como framework orientado a componentes, Angular fomenta la creación de componentes reutilizables y modulares. Los desarrolladores pueden construir componentes personalizados que representen partes específicas de la interfaz de usuario y luego combinarlos para construir aplicaciones completas.
     </p>
-    <h2>Título 2</h2>
+    <h2>Flask</h2>
     <p>
     Flask no tiene una base de datos integrada, lo que significa que los desarrolladores pueden elegir la base de datos que mejor se adapte a sus necesidades, como SQLite, PostgreSQL o MySQL. Flask también es altamente compatible con extensiones que facilitan la interacción con bases de datos y la creación de API RESTful.
 
