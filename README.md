@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Título de la página</title>
+    <title> Arquitectura </title>
 </head>
 <body>
     <h1>Angular </h1>
@@ -26,8 +26,10 @@ Aunque Flask es conocido por su simplicidad, es altamente extensible y se puede 
 
 Flask es un framework web ligero y flexible de Python que se utiliza comúnmente como backend en aplicaciones web. Proporciona las herramientas esenciales para crear rutas, gestionar peticiones HTTP y procesar datos en el servidor.
     </p>
-    
-    <img src="https://github.com/Chasi650/Test/blob/main/architecture1.png" alt="Arquitectura">
+  <p>
+    <img src="https://github.com/Chasi650/Test/blob/main/architecture1.png">
+  </p>
 </body>
+
 </html>
 
